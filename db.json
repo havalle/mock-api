@@ -1,0 +1,29 @@
+{
+    "users": [
+        {
+            "id": 0,
+            "name": "Hernan Avalle",
+            "email": "hernan@example.com"
+        },
+        {
+            "id": 1,
+            "name": "Fred Flintstone",
+            "email": "fred@example.com"
+        },
+        {
+            "id": 2,
+            "name": "John Doe",
+            "email": "joe@example.com"
+        },
+        {
+            "id": 3,
+            "name": "Jane Doe",
+            "email": "jane@example.com"
+        },
+        {
+            "id": 4,
+            "name": "James Bond",
+            "email": "jb007@mi6.com"
+        }
+    ]
+}
